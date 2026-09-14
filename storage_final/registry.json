@@ -1,7 +1,7 @@
 {
   "01_rag_scraping": {
-    "last_updated": "2026-09-14T03:18:26.741919Z",
-    "total_records": 67
+    "last_updated": "2026-09-14T09:33:57.476852Z",
+    "total_records": 70
   },
   "hashes": [
     "c2bedf6e20ddb9da9ec58197ae816ed154b14a2423e6d8aa93d6807c56083f09",
@@ -192,24 +192,36 @@
     "282559327a566e484e290e30ecf40c0d94eae00c52b9b33f22f837f5cb01bcbe",
     "c5bc895d9e595a11912b693076e9e3a6456e8fbd6d63fc1567587673adf4a47b",
     "4d8ac7db7877ef4403c48624d77b940b0c9e006a315faffa4c58e26fdb0d8f24",
-    "62e6b6710a00088d8ec05c9f7da51ca7d6b16f041b0ff08675d3b6296e57c018"
+    "62e6b6710a00088d8ec05c9f7da51ca7d6b16f041b0ff08675d3b6296e57c018",
+    "1feab7121333d99f2b95acec52cf4a21c3b91be75e0db6888a287a44e8f59aa0",
+    "46b56686350319d9a6404d2571444b19549a515b145170a5a1ca4802745c4d73",
+    "7d2518bf2aa3ebbe29798e34e5d6b84afcfb10a1ec22d58987c34d8c58633ad7",
+    "75291f3f2c6dd41560aa0be8a505af0cdf33c5e859f78347c594a2d461e68f72",
+    "2d442c15a28d9fb50a535cd4527fa2c73ff2e4ca1f6214a66bdbf1e815851fed",
+    "5e6e3cca7fa103358ec4c2b65fbd3b19dfd0cf4eb27c889dcfb7937cb6515b6e",
+    "7202ecd5147d9f75f06751792697594db5391c3fd517c55c2b76c3d1aad986d0",
+    "f94bd0bc026337516944bde639dff73aadd6ce24ee0fc3430b70c3dc126995ca",
+    "79e4e50f1b3a7da5fc2382332d82d05d4f5a54873e901676d47348ff5eded767",
+    "00fc707057f57f9b8cda0eacd09057e2a507f80a1376afcbf10d1278fdc9557e",
+    "c6489b0a8a3dfdb024c8b38426efcfe3ec886c8796ec5969602cca916cf7b1fd",
+    "a57c6076f322ea99a3ba9118887cc7f085feea706fe28422d154bc9af9adcb53"
   ],
-  "total_records": 212,
-  "last_sync": "2026-09-14T03:18:26.860301Z",
+  "total_records": 224,
+  "last_sync": "2026-09-14T09:33:57.645627Z",
   "03_ai_agent_security": {
-    "last_updated": "2026-09-14T03:18:26.827479Z",
+    "last_updated": "2026-09-14T09:33:57.601795Z",
     "total_records": 16
   },
   "04_vulnerability_research": {
-    "last_updated": "2026-09-14T03:18:26.832562Z",
+    "last_updated": "2026-09-14T09:33:57.606537Z",
     "total_records": 7
   },
   "05_cloud_devsecops": {
-    "last_updated": "2026-09-14T03:18:26.859692Z",
-    "total_records": 39
+    "last_updated": "2026-09-14T09:33:57.645140Z",
+    "total_records": 40
   },
   "02_web3_smart_contract": {
-    "last_updated": "2026-09-14T03:18:26.810310Z",
-    "total_records": 83
+    "last_updated": "2026-09-14T09:33:57.588649Z",
+    "total_records": 91
   }
 }
