@@ -1,7 +1,7 @@
 {
   "01_rag_scraping": {
-    "last_updated": "2026-10-30T21:57:04.508477Z",
-    "total_records": 175
+    "last_updated": "2026-10-31T01:26:36.454688Z",
+    "total_records": 182
   },
   "hashes": [
     "c2bedf6e20ddb9da9ec58197ae816ed154b14a2423e6d8aa93d6807c56083f09",
@@ -454,24 +454,32 @@
     "75460a08b944ab998e2323a65fe43c444699191ddb378c8a3cd267bd87db2ae9",
     "62157a6a05c82028dc1edf450447d31618965de25b05d418c4c008bba63c3886",
     "49bf292fc9b354ee59cfb4f717464c64d535fc5b267c5ce0df96fbd4e2b4b5cc",
-    "56608cb1840d88a6b1320158925e0e132e7f508fa0e83a57b1dfec226700ec89"
+    "56608cb1840d88a6b1320158925e0e132e7f508fa0e83a57b1dfec226700ec89",
+    "b607a3f8917e9e13c9e2463d450f8fedf489d444657e1f1220814cb1c2f1149c",
+    "27b0bef80352f7df189664ef13c2f7846ffd669442fbde8ebff512b36b7af09c",
+    "4f9f10d7854ceefb5a415e5aba76b1237de20bb8b0b2ece3c84cec263ff743ae",
+    "7b613cb63750434a0ef01c83a5ca14e5fa88feeaf3c8c973f35d2e48c8aab327",
+    "90bcae4dfe5f4754422c8c698230661822d66a4f3dd62f8b67c1df5a5f46200c",
+    "1d05513afa386ee70b92adf3b44d6ba78540a1f8d155d573abd1a0b78e78466f",
+    "12f88b2529e1ab41fe46ef63e60ea0b07e344d9e6288ed64546ef31041825c4a",
+    "852c475739a4dcb2a211e1072098379852666547478fb00abab460ae20eb8e2d"
   ],
-  "total_records": 474,
-  "last_sync": "2026-10-30T21:57:04.728962Z",
+  "total_records": 482,
+  "last_sync": "2026-10-31T01:26:36.685488Z",
   "03_ai_agent_security": {
-    "last_updated": "2026-10-30T21:57:04.645278Z",
+    "last_updated": "2026-10-31T01:26:36.575350Z",
     "total_records": 62
   },
   "04_vulnerability_research": {
-    "last_updated": "2026-10-30T21:57:04.653399Z",
+    "last_updated": "2026-10-31T01:26:36.582003Z",
     "total_records": 9
   },
   "05_cloud_devsecops": {
-    "last_updated": "2026-10-30T21:57:04.727226Z",
-    "total_records": 117
+    "last_updated": "2026-10-31T01:26:36.682898Z",
+    "total_records": 118
   },
   "02_web3_smart_contract": {
-    "last_updated": "2026-10-30T21:57:04.585756Z",
+    "last_updated": "2026-10-31T01:26:36.532779Z",
     "total_records": 111
   }
 }
