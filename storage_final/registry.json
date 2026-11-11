@@ -1,6 +1,6 @@
 {
   "01_rag_scraping": {
-    "last_updated": "2026-11-10T22:50:22.577427Z",
+    "last_updated": "2026-11-11T04:39:30.037252Z",
     "total_records": 188
   },
   "hashes": [
@@ -484,21 +484,21 @@
     "daad847ab2babf8ea119febc73d3e16bd5d27eea2559da46f8f18f705d6cf9eb"
   ],
   "total_records": 501,
-  "last_sync": "2026-11-10T22:50:22.764512Z",
+  "last_sync": "2026-11-11T04:39:30.249958Z",
   "03_ai_agent_security": {
-    "last_updated": "2026-11-10T22:50:22.693698Z",
+    "last_updated": "2026-11-11T04:39:30.156001Z",
     "total_records": 66
   },
   "04_vulnerability_research": {
-    "last_updated": "2026-11-10T22:50:22.699332Z",
+    "last_updated": "2026-11-11T04:39:30.162478Z",
     "total_records": 9
   },
   "05_cloud_devsecops": {
-    "last_updated": "2026-11-10T22:50:22.763425Z",
+    "last_updated": "2026-11-11T04:39:30.248079Z",
     "total_records": 127
   },
   "02_web3_smart_contract": {
-    "last_updated": "2026-11-10T22:50:22.640910Z",
+    "last_updated": "2026-11-11T04:39:30.111506Z",
     "total_records": 111
   }
 }
